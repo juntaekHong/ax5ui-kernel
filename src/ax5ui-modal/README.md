@@ -70,7 +70,7 @@ modal.setConfig({
 modal.open();
 ```
 
-- - -
+- - - - - 
 
 ### Preview
 - [See Demonstration](http://ax5.io/ax5ui-modal/demo/index.html)
